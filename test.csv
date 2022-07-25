@@ -1,0 +1,228 @@
+timestamp,store,customer_name,basket_items,total_price,cash_or_card,card_number
+06/06/2022 09:00,Chesterfield,Stephanie Neyhart,"Large Flat white - 2.45, Large Flavoured iced latte - Vanilla - 3.25, Large Flavoured iced latte - Hazelnut - 3.25",8.95,CASH,
+06/06/2022 09:02,Chesterfield,Donna Marley,"Large Flavoured iced latte - Hazelnut - 3.25, Regular Latte - 2.15, Large Flavoured iced latte - Vanilla - 3.25",8.65,CARD,4.69413E+15
+06/06/2022 09:04,Chesterfield,Frances Pounds,"Regular Flavoured iced latte - Caramel - 2.75, Large Flavoured latte - Hazelnut - 2.85, Regular Flavoured latte - Hazelnut - 2.55",8.15,CASH,
+06/06/2022 09:06,Chesterfield,Veronica Ikenberry,Large Flat white - 2.45,2.45,CASH,
+06/06/2022 09:08,Chesterfield,Rachelle Blandy,"Large Flavoured latte - Hazelnut - 2.85, Large Flavoured iced latte - Hazelnut - 3.25, Regular Flavoured iced latte - Vanilla - 2.75, Regular Latte - 2.15, Regular Flavoured latte - Hazelnut - 2.55",13.55,CARD,6.57756E+15
+06/06/2022 09:10,Chesterfield,Frank Tracy,"Large Flavoured iced latte - Caramel - 3.25, Large Flat white - 2.45",5.7,CARD,4.62381E+15
+06/06/2022 09:12,Chesterfield,Jill Goddard,"Regular Latte - 2.15, Large Latte - 2.45",4.6,CARD,3.57484E+15
+06/06/2022 09:14,Chesterfield,Brenda Johnson,"Large Flat white - 2.45, Regular Flavoured iced latte - Hazelnut - 2.75",5.2,CARD,7.78126E+15
+06/06/2022 09:17,Chesterfield,Harry Atwater,"Regular Latte - 2.15, Large Flavoured iced latte - Vanilla - 3.25",5.4,CARD,9.60719E+15
+06/06/2022 09:19,Chesterfield,John Flores,Regular Flavoured iced latte - Caramel - 2.75,2.75,CASH,
+06/06/2022 09:21,Chesterfield,Donna Mcmanemy,"Regular Latte - 2.15, Regular Flavoured iced latte - Vanilla - 2.75, Large Flavoured iced latte - Hazelnut - 3.25",8.15,CARD,3.68761E+15
+06/06/2022 09:23,Chesterfield,Joyce Cherry,Large Flat white - 2.45,2.45,CARD,2.88298E+15
+06/06/2022 09:25,Chesterfield,Michael Peoples,Regular Flavoured iced latte - Vanilla - 2.75,2.75,CARD,4.82731E+15
+06/06/2022 09:27,Chesterfield,Harold Roman,"Regular Flavoured iced latte - Hazelnut - 2.75, Large Flavoured iced latte - Hazelnut - 3.25, Large Latte - 2.45, Regular Flavoured latte - Hazelnut - 2.55",11,CASH,
+06/06/2022 09:29,Chesterfield,Ryan Connolly,Regular Flavoured iced latte - Caramel - 2.75,2.75,CARD,1.77807E+15
+06/06/2022 09:32,Chesterfield,Ryan Williams,Regular Latte - 2.15,2.15,CASH,
+06/06/2022 09:34,Chesterfield,Kelly Goldsberry,"Regular Flat white - 2.15, Regular Flavoured iced latte - Vanilla - 2.75, Regular Flavoured latte - Hazelnut - 2.55",7.45,CARD,2.66195E+15
+06/06/2022 09:36,Chesterfield,Doris Moreno,"Regular Flavoured iced latte - Caramel - 2.75, Regular Flavoured iced latte - Hazelnut - 2.75, Large Latte - 2.45, Large Flavoured latte - Hazelnut - 2.85, Large Flavoured iced latte - Caramel - 3.25",14.05,CARD,5.92451E+15
+06/06/2022 09:38,Chesterfield,Juan Hunsaker,"Regular Flat white - 2.15, Regular Latte - 2.15",4.3,CARD,4.46653E+15
+06/06/2022 09:40,Chesterfield,Shannon Bryce,"Regular Flavoured iced latte - Vanilla - 2.75, Large Flavoured iced latte - Vanilla - 3.25",6,CARD,6.35125E+15
+06/06/2022 09:42,Chesterfield,Esteban Lund,"Large Flavoured iced latte - Vanilla - 3.25, Regular Flavoured iced latte - Vanilla - 2.75",6,CARD,1.35979E+15
+06/06/2022 09:44,Chesterfield,Jonathan Pollock,Regular Flat white - 2.15,2.15,CARD,2.96855E+15
+06/06/2022 09:46,Chesterfield,Cody Ibrahim,Large Flat white - 2.45,2.45,CARD,6.07816E+15
+06/06/2022 09:49,Chesterfield,Lisa Letendre,"Regular Latte - 2.15, Regular Flavoured iced latte - Caramel - 2.75",4.9,CASH,
+06/06/2022 09:51,Chesterfield,Lonnie Lee,Large Flavoured iced latte - Caramel - 3.25,3.25,CASH,
+06/06/2022 09:53,Chesterfield,Andrea Blake,"Large Flavoured iced latte - Hazelnut - 3.25, Regular Flavoured iced latte - Hazelnut - 2.75, Large Flavoured iced latte - Vanilla - 3.25, Regular Flavoured latte - Hazelnut - 2.55",11.8,CARD,1.56245E+15
+06/06/2022 09:55,Chesterfield,Martin Dorschner,"Large Flavoured iced latte - Vanilla - 3.25, Large Latte - 2.45",5.7,CARD,2.73649E+15
+06/06/2022 09:57,Chesterfield,Jay Baca,"Regular Flavoured iced latte - Vanilla - 2.75, Regular Flavoured iced latte - Hazelnut - 2.75, Large Flavoured iced latte - Caramel - 3.25",8.75,CARD,7.62755E+15
+06/06/2022 09:59,Chesterfield,Philip Buggs,"Large Latte - 2.45, Large Flavoured iced latte - Caramel - 3.25",5.7,CARD,1.19308E+15
+06/06/2022 10:01,Chesterfield,Barbara Adams,"Large Latte - 2.45, Large Flavoured iced latte - Hazelnut - 3.25, Regular Flavoured latte - Hazelnut - 2.55",8.25,CASH,
+06/06/2022 10:04,Chesterfield,David Schoeck,Regular Flavoured latte - Hazelnut - 2.55,2.55,CARD,5.41223E+15
+06/06/2022 10:06,Chesterfield,Joe Morin,"Regular Flavoured iced latte - Vanilla - 2.75, Large Flavoured latte - Hazelnut - 2.85, Regular Flavoured iced latte - Vanilla - 2.75",8.35,CASH,
+06/06/2022 10:08,Chesterfield,Lynn Riccio,Large Flavoured iced latte - Vanilla - 3.25,3.25,CARD,7.26243E+15
+06/06/2022 10:10,Chesterfield,Charles Mayberry,"Large Flat white - 2.45, Regular Flat white - 2.15, Regular Flat white - 2.15, Regular Flavoured iced latte - Caramel - 2.75",9.5,CASH,
+06/06/2022 10:12,Chesterfield,Emily Bateman,"Large Flavoured iced latte - Caramel - 3.25, Regular Flavoured iced latte - Vanilla - 2.75",6,CASH,
+06/06/2022 10:14,Chesterfield,James Beckwith,"Large Flavoured iced latte - Caramel - 3.25, Large Flavoured latte - Hazelnut - 2.85, Large Latte - 2.45, Regular Flavoured latte - Hazelnut - 2.55, Large Latte - 2.45",13.55,CASH,
+06/06/2022 10:16,Chesterfield,Holly Williams,"Large Flavoured iced latte - Vanilla - 3.25, Large Latte - 2.45, Large Flavoured latte - Hazelnut - 2.85, Regular Flavoured iced latte - Hazelnut - 2.75",11.3,CASH,
+06/06/2022 10:18,Chesterfield,Irene Berg,"Regular Flavoured latte - Hazelnut - 2.55, Regular Flavoured iced latte - Vanilla - 2.75, Large Flavoured iced latte - Vanilla - 3.25, Large Flavoured iced latte - Caramel - 3.25, Large Flavoured iced latte - Caramel - 3.25, Large Flat white - 2.45",17.5,CARD,4.49034E+15
+06/06/2022 10:21,Chesterfield,Melissa Austin,Large Flavoured latte - Hazelnut - 2.85,2.85,CARD,5.00715E+15
+06/06/2022 10:23,Chesterfield,Debra Tejeiro,"Regular Latte - 2.15, Large Flavoured latte - Hazelnut - 2.85, Large Flat white - 2.45, Regular Flat white - 2.15",9.6,CASH,
+06/06/2022 10:25,Chesterfield,Kevin Conroy,"Regular Flavoured iced latte - Hazelnut - 2.75, Regular Flavoured iced latte - Caramel - 2.75",5.5,CARD,9.3959E+15
+06/06/2022 10:27,Chesterfield,Robert Parr,"Large Flavoured iced latte - Vanilla - 3.25, Large Flavoured iced latte - Caramel - 3.25",6.5,CARD,1.03753E+15
+06/06/2022 10:29,Chesterfield,Scott Kaua,"Large Flavoured iced latte - Vanilla - 3.25, Large Flavoured iced latte - Vanilla - 3.25, Regular Flavoured iced latte - Hazelnut - 2.75",9.25,CASH,
+06/06/2022 10:31,Chesterfield,John Reel,"Regular Flavoured latte - Hazelnut - 2.55, Regular Flavoured latte - Hazelnut - 2.55",5.1,CARD,4.81997E+15
+06/06/2022 10:33,Chesterfield,Toni Hernandez,Large Flavoured iced latte - Hazelnut - 3.25,3.25,CARD,1.97647E+15
+06/06/2022 10:36,Chesterfield,Richard Hobbs,"Large Flavoured latte - Hazelnut - 2.85, Large Flavoured latte - Hazelnut - 2.85",5.7,CASH,
+06/06/2022 10:38,Chesterfield,Gordon Menzel,"Large Flavoured iced latte - Vanilla - 3.25, Regular Flavoured iced latte - Caramel - 2.75, Large Latte - 2.45, Large Flat white - 2.45",10.9,CARD,8.97386E+15
+06/06/2022 10:40,Chesterfield,Michael Cassin,Large Flat white - 2.45,2.45,CARD,9.26135E+15
+06/06/2022 10:42,Chesterfield,Matthew Wiener,"Large Latte - 2.45, Large Latte - 2.45, Large Flavoured iced latte - Caramel - 3.25, Regular Flavoured iced latte - Vanilla - 2.75, Regular Flat white - 2.15",13.05,CASH,
+06/06/2022 10:44,Chesterfield,Brandon Mcmunn,"Large Latte - 2.45, Large Flavoured iced latte - Hazelnut - 3.25",5.7,CASH,
+06/06/2022 10:46,Chesterfield,Emily Frederick,"Large Flat white - 2.45, Regular Flavoured iced latte - Hazelnut - 2.75",5.2,CARD,2.66644E+15
+06/06/2022 10:48,Chesterfield,Doris Crockette,"Large Latte - 2.45, Large Flavoured iced latte - Caramel - 3.25",5.7,CARD,8.99593E+15
+06/06/2022 10:50,Chesterfield,Ward Hudspeth,"Regular Flavoured iced latte - Vanilla - 2.75, Large Latte - 2.45",5.2,CARD,1.39366E+15
+06/06/2022 10:53,Chesterfield,Cathy Worley,"Large Flavoured iced latte - Caramel - 3.25, Large Flat white - 2.45, Regular Flavoured iced latte - Caramel - 2.75, Regular Flavoured iced latte - Hazelnut - 2.75",11.2,CARD,6.183E+15
+06/06/2022 10:55,Chesterfield,Elizabeth Driver,"Regular Flavoured iced latte - Caramel - 2.75, Regular Flavoured latte - Hazelnut - 2.55",5.3,CARD,5.04754E+15
+06/06/2022 10:57,Chesterfield,Philip Peters,Regular Flavoured iced latte - Caramel - 2.75,2.75,CASH,
+06/06/2022 10:59,Chesterfield,Chelsea Allen,"Regular Flavoured iced latte - Vanilla - 2.75, Regular Flavoured iced latte - Vanilla - 2.75",5.5,CASH,
+06/06/2022 11:01,Chesterfield,Thomas Hill,"Large Flavoured iced latte - Caramel - 3.25, Large Latte - 2.45",5.7,CARD,8.75594E+15
+06/06/2022 11:03,Chesterfield,Theresa Lewis,"Regular Flat white - 2.15, Large Flavoured iced latte - Vanilla - 3.25, Regular Flavoured iced latte - Hazelnut - 2.75, Large Flavoured iced latte - Vanilla - 3.25",11.4,CARD,6.52339E+15
+06/06/2022 11:05,Chesterfield,Marion Edwards,"Large Flavoured iced latte - Vanilla - 3.25, Large Flat white - 2.45",5.7,CARD,5.68042E+15
+06/06/2022 11:08,Chesterfield,Delores Neu,"Regular Flavoured iced latte - Vanilla - 2.75, Regular Flavoured iced latte - Hazelnut - 2.75",5.5,CASH,
+06/06/2022 11:10,Chesterfield,Alan Cosner,"Regular Flavoured iced latte - Caramel - 2.75, Large Flavoured iced latte - Caramel - 3.25, Regular Flavoured iced latte - Hazelnut - 2.75, Regular Flat white - 2.15, Large Flavoured iced latte - Hazelnut - 3.25",14.15,CASH,
+06/06/2022 11:12,Chesterfield,Anita Woods,"Regular Flat white - 2.15, Large Latte - 2.45, Regular Flavoured iced latte - Vanilla - 2.75, Large Flavoured iced latte - Vanilla - 3.25",10.6,CARD,9.49979E+15
+06/06/2022 11:14,Chesterfield,Jody Burr,"Regular Latte - 2.15, Regular Latte - 2.15, Large Flavoured latte - Hazelnut - 2.85, Regular Flavoured iced latte - Hazelnut - 2.75, Regular Latte - 2.15",12.05,CARD,1.08846E+15
+06/06/2022 11:16,Chesterfield,Elton Priestley,"Large Flavoured iced latte - Caramel - 3.25, Large Flavoured iced latte - Vanilla - 3.25, Regular Latte - 2.15, Large Flat white - 2.45",11.1,CARD,4.68956E+15
+06/06/2022 11:18,Chesterfield,Delbert Crespo,"Regular Latte - 2.15, Large Flavoured iced latte - Caramel - 3.25",5.4,CARD,8.91579E+15
+06/06/2022 11:20,Chesterfield,Krista Lopez,"Large Flavoured iced latte - Hazelnut - 3.25, Regular Flavoured iced latte - Caramel - 2.75, Large Latte - 2.45, Regular Flavoured iced latte - Vanilla - 2.75, Regular Flavoured latte - Hazelnut - 2.55, Regular Flavoured iced latte - Caramel - 2.75",16.5,CARD,1.71514E+15
+06/06/2022 11:22,Chesterfield,Rebekah Tripp,"Large Flavoured iced latte - Vanilla - 3.25, Regular Flat white - 2.15",5.4,CARD,9.15658E+15
+06/06/2022 11:25,Chesterfield,Rosemary Lizotte,"Large Flavoured iced latte - Caramel - 3.25, Regular Flavoured latte - Hazelnut - 2.55, Large Flavoured iced latte - Vanilla - 3.25, Large Flavoured iced latte - Hazelnut - 3.25",12.3,CARD,7.60782E+15
+06/06/2022 11:27,Chesterfield,Michael Voss,"Regular Flavoured iced latte - Hazelnut - 2.75, Regular Flavoured latte - Hazelnut - 2.55",5.3,CASH,
+06/06/2022 11:29,Chesterfield,Elizabeth Fox,"Large Flavoured iced latte - Hazelnut - 3.25, Regular Flavoured latte - Hazelnut - 2.55, Regular Flavoured latte - Hazelnut - 2.55, Regular Flat white - 2.15, Regular Flavoured iced latte - Vanilla - 2.75",13.25,CASH,
+06/06/2022 11:31,Chesterfield,Tammie Ewell,Regular Flavoured iced latte - Vanilla - 2.75,2.75,CASH,
+06/06/2022 11:33,Chesterfield,Michael Carpenter,"Large Flavoured latte - Hazelnut - 2.85, Large Flavoured iced latte - Hazelnut - 3.25, Regular Flavoured iced latte - Caramel - 2.75, Regular Latte - 2.15",11,CARD,3.62985E+15
+06/06/2022 11:35,Chesterfield,Rachel Lovisone,"Regular Flavoured latte - Hazelnut - 2.55, Large Flavoured iced latte - Hazelnut - 3.25, Large Flavoured iced latte - Vanilla - 3.25",9.05,CARD,1.71105E+15
+06/06/2022 11:37,Chesterfield,Judith Beck,"Regular Flavoured iced latte - Vanilla - 2.75, Regular Flat white - 2.15, Large Flavoured latte - Hazelnut - 2.85, Large Flavoured latte - Hazelnut - 2.85",10.6,CARD,9.41678E+15
+06/06/2022 11:40,Chesterfield,Stephen Rodriguez,Regular Flat white - 2.15,2.15,CARD,8.40482E+15
+06/06/2022 11:42,Chesterfield,Micheal Arellano,"Large Flavoured iced latte - Vanilla - 3.25, Regular Flavoured iced latte - Hazelnut - 2.75, Regular Flat white - 2.15, Regular Flat white - 2.15, Regular Latte - 2.15",12.45,CASH,
+06/06/2022 11:44,Chesterfield,Betty Coy,"Regular Flavoured iced latte - Hazelnut - 2.75, Large Flat white - 2.45",5.2,CARD,1.02354E+15
+06/06/2022 11:46,Chesterfield,Melissa Hankins,"Regular Flat white - 2.15, Large Flavoured iced latte - Vanilla - 3.25",5.4,CARD,5.41731E+15
+06/06/2022 11:48,Chesterfield,Robert Aguilera,"Large Flavoured iced latte - Caramel - 3.25, Regular Flavoured latte - Hazelnut - 2.55, Regular Flavoured iced latte - Caramel - 2.75, Regular Latte - 2.15",10.7,CARD,5.80068E+15
+06/06/2022 11:50,Chesterfield,Shiela Robinson,Large Flat white - 2.45,2.45,CASH,
+06/06/2022 11:52,Chesterfield,Paula Knowles,"Large Flavoured latte - Hazelnut - 2.85, Large Flavoured iced latte - Vanilla - 3.25",6.1,CARD,8.66134E+15
+06/06/2022 11:54,Chesterfield,Frank Culliton,"Regular Latte - 2.15, Large Flavoured latte - Hazelnut - 2.85, Regular Latte - 2.15, Regular Flavoured iced latte - Hazelnut - 2.75, Large Flavoured iced latte - Caramel - 3.25, Large Flavoured iced latte - Hazelnut - 3.25",16.4,CARD,5.14003E+15
+06/06/2022 11:57,Chesterfield,Richard Dixon,"Large Flavoured iced latte - Caramel - 3.25, Large Flavoured iced latte - Caramel - 3.25, Regular Flavoured iced latte - Hazelnut - 2.75",9.25,CARD,9.92727E+15
+06/06/2022 11:59,Chesterfield,Wilfred Welch,"Large Flavoured latte - Hazelnut - 2.85, Regular Flavoured iced latte - Caramel - 2.75, Large Flavoured latte - Hazelnut - 2.85, Regular Flat white - 2.15, Regular Latte - 2.15",12.75,CARD,2.97875E+15
+06/06/2022 12:01,Chesterfield,Barbara Ewing,"Large Flavoured latte - Hazelnut - 2.85, Regular Flavoured iced latte - Caramel - 2.75, Large Flavoured iced latte - Hazelnut - 3.25, Large Flat white - 2.45",11.3,CARD,4.34168E+15
+06/06/2022 12:03,Chesterfield,Kelly Jimenez,"Regular Latte - 2.15, Large Latte - 2.45, Regular Flat white - 2.15, Large Latte - 2.45",9.2,CARD,2.25222E+15
+06/06/2022 12:05,Chesterfield,Diana Gasca,"Regular Flavoured iced latte - Caramel - 2.75, Regular Flavoured iced latte - Caramel - 2.75, Large Flavoured iced latte - Caramel - 3.25, Large Flavoured iced latte - Caramel - 3.25, Regular Flavoured iced latte - Vanilla - 2.75",14.75,CARD,6.05363E+15
+06/06/2022 12:07,Chesterfield,Edgar Melvin,Regular Latte - 2.15,2.15,CARD,5.55447E+15
+06/06/2022 12:09,Chesterfield,Reginald Dacosta,"Regular Flavoured iced latte - Hazelnut - 2.75, Large Flavoured iced latte - Vanilla - 3.25, Regular Latte - 2.15",8.15,CARD,8.93386E+15
+06/06/2022 12:12,Chesterfield,Roslyn Davis,"Large Flavoured iced latte - Vanilla - 3.25, Large Flavoured latte - Hazelnut - 2.85, Large Flat white - 2.45, Regular Flavoured iced latte - Hazelnut - 2.75",11.3,CASH,
+06/06/2022 12:14,Chesterfield,Michelle Stoner,"Regular Flavoured latte - Hazelnut - 2.55, Regular Flavoured iced latte - Hazelnut - 2.75, Large Flavoured iced latte - Caramel - 3.25",8.55,CARD,5.27634E+15
+06/06/2022 12:16,Chesterfield,Michael Griffith,"Regular Flavoured iced latte - Caramel - 2.75, Regular Latte - 2.15",4.9,CARD,5.91737E+15
+06/06/2022 12:18,Chesterfield,Lynette Scott,"Regular Flavoured iced latte - Vanilla - 2.75, Large Latte - 2.45, Regular Flavoured iced latte - Caramel - 2.75",7.95,CARD,5.79769E+15
+06/06/2022 12:20,Chesterfield,Tara Nava,"Large Flavoured iced latte - Hazelnut - 3.25, Large Flavoured iced latte - Hazelnut - 3.25, Regular Flavoured latte - Hazelnut - 2.55",9.05,CARD,2.1855E+15
+06/06/2022 12:22,Chesterfield,Richard Ramos,"Large Latte - 2.45, Large Flat white - 2.45, Regular Flavoured iced latte - Vanilla - 2.75, Regular Flavoured latte - Hazelnut - 2.55",10.2,CARD,4.75918E+15
+06/06/2022 12:24,Chesterfield,Duane Flowers,"Regular Flavoured iced latte - Hazelnut - 2.75, Large Flavoured iced latte - Hazelnut - 3.25",6,CARD,7.51419E+15
+06/06/2022 12:26,Chesterfield,Christina Gold,Large Flat white - 2.45,2.45,CARD,6.88539E+15
+06/06/2022 12:29,Chesterfield,Yun Williams,"Regular Flavoured latte - Hazelnut - 2.55, Regular Flavoured latte - Hazelnut - 2.55, Regular Flavoured iced latte - Caramel - 2.75, Regular Flavoured latte - Hazelnut - 2.55, Regular Flavoured latte - Hazelnut - 2.55",12.95,CARD,9.66719E+15
+06/06/2022 12:31,Chesterfield,Irvin Mick,"Regular Flavoured latte - Hazelnut - 2.55, Regular Latte - 2.15, Large Latte - 2.45, Regular Flavoured iced latte - Vanilla - 2.75",9.9,CARD,1.46832E+15
+06/06/2022 12:33,Chesterfield,Owen Crespo,"Large Flat white - 2.45, Large Flat white - 2.45, Regular Latte - 2.15, Regular Flat white - 2.15, Large Flat white - 2.45",11.65,CASH,
+06/06/2022 12:35,Chesterfield,Anthony Shea,"Regular Flat white - 2.15, Regular Flavoured iced latte - Hazelnut - 2.75",4.9,CARD,4.73311E+15
+06/06/2022 12:37,Chesterfield,Dale Thompson,Large Flat white - 2.45,2.45,CARD,3.43097E+15
+06/06/2022 12:39,Chesterfield,Thomas Carrillo,"Large Flavoured iced latte - Caramel - 3.25, Regular Flavoured iced latte - Hazelnut - 2.75, Regular Flavoured iced latte - Caramel - 2.75",8.75,CARD,1.28311E+15
+06/06/2022 12:41,Chesterfield,Nikita Bader,Regular Flavoured iced latte - Hazelnut - 2.75,2.75,CASH,
+06/06/2022 12:44,Chesterfield,Darrell Mavraganis,"Large Latte - 2.45, Regular Latte - 2.15, Regular Flavoured iced latte - Vanilla - 2.75, Regular Latte - 2.15",9.5,CASH,
+06/06/2022 12:46,Chesterfield,Steve Flores,Large Flavoured iced latte - Caramel - 3.25,3.25,CASH,
+06/06/2022 12:48,Chesterfield,Mai Kazarian,"Regular Latte - 2.15, Regular Flavoured iced latte - Hazelnut - 2.75, Large Flavoured iced latte - Vanilla - 3.25, Regular Flavoured iced latte - Hazelnut - 2.75",10.9,CASH,
+06/06/2022 12:50,Chesterfield,Terry Getzschman,"Large Flat white - 2.45, Regular Flavoured iced latte - Hazelnut - 2.75",5.2,CASH,
+06/06/2022 12:52,Chesterfield,Rickey Staton,"Large Flat white - 2.45, Regular Latte - 2.15, Regular Flavoured latte - Hazelnut - 2.55",7.15,CARD,3.01693E+15
+06/06/2022 12:54,Chesterfield,David Martin,"Regular Flavoured latte - Hazelnut - 2.55, Regular Flavoured iced latte - Hazelnut - 2.75, Large Flavoured iced latte - Hazelnut - 3.25",8.55,CASH,
+06/06/2022 12:56,Chesterfield,Heather Hand,"Regular Latte - 2.15, Regular Flavoured latte - Hazelnut - 2.55, Large Flavoured iced latte - Vanilla - 3.25, Large Flat white - 2.45",10.4,CARD,1.25136E+15
+06/06/2022 12:58,Chesterfield,Patrick Meyer,Large Flavoured iced latte - Vanilla - 3.25,3.25,CARD,1.24043E+15
+06/06/2022 13:01,Chesterfield,Tisha Cummings,"Large Flavoured latte - Hazelnut - 2.85, Large Latte - 2.45, Regular Flavoured iced latte - Hazelnut - 2.75, Regular Flat white - 2.15",10.2,CARD,3.29977E+15
+06/06/2022 13:03,Chesterfield,Candace Cotman,"Large Flavoured iced latte - Caramel - 3.25, Regular Flavoured iced latte - Vanilla - 2.75, Large Flavoured iced latte - Hazelnut - 3.25, Large Flavoured iced latte - Vanilla - 3.25, Large Flat white - 2.45",14.95,CARD,1.16114E+15
+06/06/2022 13:05,Chesterfield,Juan Walker,"Regular Flavoured iced latte - Vanilla - 2.75, Regular Flavoured iced latte - Vanilla - 2.75",5.5,CARD,2.37096E+15
+06/06/2022 13:07,Chesterfield,Hazel Viars,"Regular Latte - 2.15, Large Flavoured latte - Hazelnut - 2.85, Regular Latte - 2.15, Regular Flavoured iced latte - Vanilla - 2.75, Large Flat white - 2.45",12.35,CARD,4.14034E+15
+06/06/2022 13:09,Chesterfield,Millie Lewis,"Large Flat white - 2.45, Regular Flavoured iced latte - Hazelnut - 2.75",5.2,CARD,4.53059E+15
+06/06/2022 13:11,Chesterfield,Bryan Ferguson,Large Flat white - 2.45,2.45,CASH,
+06/06/2022 13:13,Chesterfield,Luana Poirier,"Large Flavoured iced latte - Caramel - 3.25, Large Flavoured iced latte - Vanilla - 3.25",6.5,CARD,5.27342E+15
+06/06/2022 13:16,Chesterfield,Betty Melendy,"Regular Flavoured iced latte - Vanilla - 2.75, Large Latte - 2.45, Regular Latte - 2.15, Large Flat white - 2.45, Large Flat white - 2.45",12.25,CASH,
+06/06/2022 13:18,Chesterfield,Myrna Cullen,"Regular Flavoured iced latte - Hazelnut - 2.75, Regular Flat white - 2.15, Large Flavoured iced latte - Caramel - 3.25",8.15,CARD,5.93191E+15
+06/06/2022 13:20,Chesterfield,Ashley Kernan,"Large Flavoured iced latte - Hazelnut - 3.25, Large Flat white - 2.45, Regular Flat white - 2.15",7.85,CARD,7.17414E+15
+06/06/2022 13:22,Chesterfield,Rodney Dotson,Large Latte - 2.45,2.45,CARD,5.59801E+15
+06/06/2022 13:24,Chesterfield,Elizabeth Lange,Large Flat white - 2.45,2.45,CASH,
+06/06/2022 13:26,Chesterfield,Marlene Mosley,"Regular Flat white - 2.15, Regular Flat white - 2.15",4.3,CARD,3.61164E+15
+06/06/2022 13:28,Chesterfield,Michael Boyle,"Large Flavoured latte - Hazelnut - 2.85, Regular Flavoured iced latte - Caramel - 2.75, Regular Flavoured iced latte - Caramel - 2.75",8.35,CARD,6.75426E+15
+06/06/2022 13:30,Chesterfield,Mary Hamby,"Regular Flavoured iced latte - Caramel - 2.75, Large Flavoured iced latte - Vanilla - 3.25, Regular Flavoured latte - Hazelnut - 2.55, Large Flavoured latte - Hazelnut - 2.85, Regular Latte - 2.15",13.55,CARD,3.6778E+15
+06/06/2022 13:33,Chesterfield,Gregory Knight,"Regular Flavoured latte - Hazelnut - 2.55, Regular Flavoured iced latte - Caramel - 2.75, Regular Flavoured iced latte - Hazelnut - 2.75, Large Latte - 2.45",10.5,CARD,1.03221E+15
+06/06/2022 13:35,Chesterfield,Scott Taylor,"Regular Flat white - 2.15, Regular Flat white - 2.15",4.3,CASH,
+06/06/2022 13:37,Chesterfield,Patricia Hungate,"Regular Flat white - 2.15, Large Flavoured latte - Hazelnut - 2.85",5,CARD,4.99417E+15
+06/06/2022 13:39,Chesterfield,John Yarrington,Large Latte - 2.45,2.45,CASH,
+06/06/2022 13:41,Chesterfield,Billy Smith,"Regular Latte - 2.15, Regular Flavoured iced latte - Hazelnut - 2.75, Regular Flavoured latte - Hazelnut - 2.55, Regular Flavoured iced latte - Caramel - 2.75",10.2,CARD,7.2315E+15
+06/06/2022 13:43,Chesterfield,Rachel Green,Regular Flavoured iced latte - Hazelnut - 2.75,2.75,CARD,5.13588E+15
+06/06/2022 13:45,Chesterfield,Stacey Coffey,"Large Latte - 2.45, Large Flavoured iced latte - Hazelnut - 3.25",5.7,CARD,6.00659E+15
+06/06/2022 13:48,Chesterfield,Donald Stroud,"Regular Flavoured iced latte - Vanilla - 2.75, Large Flavoured iced latte - Caramel - 3.25, Regular Flavoured iced latte - Vanilla - 2.75, Large Latte - 2.45",11.2,CASH,
+06/06/2022 13:50,Chesterfield,Debra Karow,"Regular Flat white - 2.15, Regular Flavoured iced latte - Vanilla - 2.75",4.9,CARD,2.10439E+15
+06/06/2022 13:52,Chesterfield,Alma Elliott,"Regular Flavoured iced latte - Caramel - 2.75, Regular Flavoured iced latte - Hazelnut - 2.75",5.5,CASH,
+06/06/2022 13:54,Chesterfield,Nancy Blassingame,Large Flavoured latte - Hazelnut - 2.85,2.85,CASH,
+06/06/2022 13:56,Chesterfield,Edna Lopez,"Large Flavoured iced latte - Caramel - 3.25, Large Latte - 2.45",5.7,CASH,
+06/06/2022 13:58,Chesterfield,Timothy Leonard,"Large Flavoured latte - Hazelnut - 2.85, Regular Latte - 2.15, Large Flavoured iced latte - Caramel - 3.25",8.25,CARD,2.04343E+15
+06/06/2022 14:00,Chesterfield,Wilma Whitson,"Large Flat white - 2.45, Regular Flavoured iced latte - Caramel - 2.75",5.2,CARD,1.79454E+15
+06/06/2022 14:02,Chesterfield,Winnie Martell,"Regular Flavoured iced latte - Vanilla - 2.75, Regular Flavoured iced latte - Vanilla - 2.75",5.5,CARD,9.78701E+15
+06/06/2022 14:05,Chesterfield,Sarah Cooley,"Regular Flat white - 2.15, Large Flavoured iced latte - Caramel - 3.25",5.4,CARD,9.1428E+15
+06/06/2022 14:07,Chesterfield,Fred Quintana,"Large Flavoured iced latte - Caramel - 3.25, Large Latte - 2.45, Large Flavoured iced latte - Hazelnut - 3.25, Large Flavoured iced latte - Hazelnut - 3.25",12.2,CARD,4.30365E+15
+06/06/2022 14:09,Chesterfield,Erik Matusz,"Regular Flavoured iced latte - Caramel - 2.75, Large Flavoured iced latte - Caramel - 3.25, Large Latte - 2.45, Large Flavoured iced latte - Caramel - 3.25",11.7,CARD,6.63693E+15
+06/06/2022 14:11,Chesterfield,James Stordahl,"Large Latte - 2.45, Large Latte - 2.45, Regular Flavoured latte - Hazelnut - 2.55, Regular Flavoured iced latte - Caramel - 2.75, Regular Flavoured latte - Hazelnut - 2.55",12.75,CARD,4.1566E+15
+06/06/2022 14:13,Chesterfield,Becky Aadland,Regular Flavoured iced latte - Hazelnut - 2.75,2.75,CARD,2.47034E+15
+06/06/2022 14:15,Chesterfield,John Jozwiak,"Regular Flavoured iced latte - Vanilla - 2.75, Large Flavoured iced latte - Vanilla - 3.25, Large Flavoured iced latte - Hazelnut - 3.25, Regular Flavoured iced latte - Caramel - 2.75",12,CASH,
+06/06/2022 14:17,Chesterfield,Miguel Nesbitt,"Large Flavoured iced latte - Caramel - 3.25, Regular Flat white - 2.15",5.4,CARD,7.62205E+15
+06/06/2022 14:20,Chesterfield,David Sutherland,Regular Flavoured iced latte - Hazelnut - 2.75,2.75,CARD,4.41345E+15
+06/06/2022 14:22,Chesterfield,Joseph Marino,Large Flavoured iced latte - Hazelnut - 3.25,3.25,CASH,
+06/06/2022 14:24,Chesterfield,Ted Conley,"Large Latte - 2.45, Large Flavoured iced latte - Hazelnut - 3.25, Regular Latte - 2.15",7.85,CASH,
+06/06/2022 14:26,Chesterfield,Graciela Mooney,Large Flavoured iced latte - Vanilla - 3.25,3.25,CARD,3.0244E+15
+06/06/2022 14:28,Chesterfield,Sandra Lacey,"Regular Flavoured iced latte - Caramel - 2.75, Regular Flavoured iced latte - Hazelnut - 2.75, Large Latte - 2.45, Regular Flavoured iced latte - Caramel - 2.75, Regular Flavoured iced latte - Vanilla - 2.75",13.45,CARD,4.87373E+15
+06/06/2022 14:30,Chesterfield,Jack Reed,Regular Flavoured iced latte - Hazelnut - 2.75,2.75,CARD,9.64802E+15
+06/06/2022 14:32,Chesterfield,Larry Tsai,"Large Flavoured iced latte - Caramel - 3.25, Regular Flat white - 2.15, Regular Flat white - 2.15, Regular Latte - 2.15",9.7,CARD,8.73547E+15
+06/06/2022 14:34,Chesterfield,Richard Peacock,Regular Flat white - 2.15,2.15,CARD,8.3908E+15
+06/06/2022 14:37,Chesterfield,Brian Taylor,"Regular Flavoured iced latte - Vanilla - 2.75, Regular Flavoured latte - Hazelnut - 2.55",5.3,CASH,
+06/06/2022 14:39,Chesterfield,Karen Webb,"Regular Flavoured latte - Hazelnut - 2.55, Large Latte - 2.45, Regular Flat white - 2.15",7.15,CARD,9.1826E+15
+06/06/2022 14:41,Chesterfield,Eden Farness,"Regular Latte - 2.15, Large Flavoured iced latte - Hazelnut - 3.25, Regular Flavoured iced latte - Vanilla - 2.75, Regular Flavoured iced latte - Hazelnut - 2.75",10.9,CARD,4.14106E+15
+06/06/2022 14:43,Chesterfield,Ronald Yates,"Regular Flat white - 2.15, Large Flavoured iced latte - Caramel - 3.25, Regular Flat white - 2.15",7.55,CARD,3.96569E+15
+06/06/2022 14:45,Chesterfield,Debbie Blackburn,"Regular Flavoured iced latte - Hazelnut - 2.75, Large Flat white - 2.45",5.2,CARD,5.71516E+15
+06/06/2022 14:47,Chesterfield,Mark Kindred,"Large Flavoured iced latte - Hazelnut - 3.25, Regular Flavoured iced latte - Hazelnut - 2.75",6,CARD,2.41137E+15
+06/06/2022 14:49,Chesterfield,William Bond,"Regular Flavoured iced latte - Hazelnut - 2.75, Large Flavoured iced latte - Hazelnut - 3.25, Regular Flat white - 2.15, Large Flavoured iced latte - Vanilla - 3.25, Regular Flavoured iced latte - Vanilla - 2.75",14.15,CARD,1.28924E+15
+06/06/2022 14:52,Chesterfield,Daisy Stout,"Regular Latte - 2.15, Regular Latte - 2.15",4.3,CASH,
+06/06/2022 14:54,Chesterfield,Fannie Kirksey,"Regular Flat white - 2.15, Large Flavoured iced latte - Hazelnut - 3.25, Regular Flavoured iced latte - Vanilla - 2.75, Regular Flat white - 2.15, Regular Flavoured latte - Hazelnut - 2.55, Large Latte - 2.45",15.3,CARD,8.07595E+15
+06/06/2022 14:56,Chesterfield,Ruth Cilenti,Large Flavoured iced latte - Vanilla - 3.25,3.25,CARD,4.09104E+15
+06/06/2022 14:58,Chesterfield,Antoinette Woodruff,"Regular Flat white - 2.15, Large Flavoured latte - Hazelnut - 2.85, Large Flavoured iced latte - Hazelnut - 3.25, Large Flat white - 2.45, Regular Flat white - 2.15, Regular Flat white - 2.15",15,CARD,2.63613E+15
+06/06/2022 15:00,Chesterfield,Rosalie Alberry,Large Flavoured iced latte - Caramel - 3.25,3.25,CARD,8.94686E+15
+06/06/2022 15:02,Chesterfield,Timothy Pugh,Large Flavoured iced latte - Caramel - 3.25,3.25,CASH,
+06/06/2022 15:04,Chesterfield,Efren Griffin,"Large Flavoured iced latte - Caramel - 3.25, Regular Flat white - 2.15, Regular Flavoured iced latte - Vanilla - 2.75, Regular Flavoured iced latte - Caramel - 2.75, Large Latte - 2.45",13.35,CASH,
+06/06/2022 15:06,Chesterfield,Larry Harris,"Regular Flavoured iced latte - Caramel - 2.75, Regular Latte - 2.15, Large Flavoured iced latte - Vanilla - 3.25",8.15,CARD,9.4811E+15
+06/06/2022 15:09,Chesterfield,Debra Lineberry,"Large Flat white - 2.45, Regular Flavoured iced latte - Hazelnut - 2.75",5.2,CARD,2.06294E+15
+06/06/2022 15:11,Chesterfield,Ronald Mcirvin,Large Flavoured latte - Hazelnut - 2.85,2.85,CASH,
+06/06/2022 15:13,Chesterfield,Pedro Dyer,"Regular Flavoured iced latte - Vanilla - 2.75, Regular Latte - 2.15, Regular Flat white - 2.15",7.05,CARD,2.82857E+15
+06/06/2022 15:15,Chesterfield,Carla Alonso,"Large Flavoured iced latte - Caramel - 3.25, Regular Flavoured iced latte - Caramel - 2.75, Regular Flat white - 2.15",8.15,CASH,
+06/06/2022 15:17,Chesterfield,Mario Digirolamo,"Regular Flavoured iced latte - Vanilla - 2.75, Regular Flavoured iced latte - Vanilla - 2.75, Regular Flavoured iced latte - Vanilla - 2.75",8.25,CARD,7.53012E+15
+06/06/2022 15:19,Chesterfield,Ella Thorn,"Regular Flavoured iced latte - Vanilla - 2.75, Large Latte - 2.45",5.2,CARD,8.67417E+15
+06/06/2022 15:21,Chesterfield,Richard Chaney,"Regular Latte - 2.15, Regular Flat white - 2.15, Large Latte - 2.45, Regular Latte - 2.15, Regular Flavoured latte - Hazelnut - 2.55",11.45,CARD,4.42233E+15
+06/06/2022 15:24,Chesterfield,Darrell Niederberger,Large Latte - 2.45,2.45,CARD,9.71893E+15
+06/06/2022 15:26,Chesterfield,Victoria Jett,Regular Flavoured iced latte - Hazelnut - 2.75,2.75,CARD,8.35628E+15
+06/06/2022 15:28,Chesterfield,Susan Kennedy,"Regular Flavoured latte - Hazelnut - 2.55, Large Flavoured latte - Hazelnut - 2.85, Large Latte - 2.45, Large Flavoured iced latte - Vanilla - 3.25",11.1,CARD,6.28132E+15
+06/06/2022 15:30,Chesterfield,John Castillo,"Regular Flat white - 2.15, Large Flat white - 2.45, Large Flat white - 2.45, Regular Flavoured iced latte - Caramel - 2.75, Regular Flavoured iced latte - Vanilla - 2.75, Regular Latte - 2.15",14.7,CARD,2.61225E+15
+06/06/2022 15:32,Chesterfield,Isaac Luongo,"Regular Flavoured iced latte - Hazelnut - 2.75, Regular Flavoured latte - Hazelnut - 2.55",5.3,CARD,1.65728E+15
+06/06/2022 15:34,Chesterfield,William Pickett,"Large Flavoured latte - Hazelnut - 2.85, Regular Flavoured latte - Hazelnut - 2.55, Regular Latte - 2.15",7.55,CASH,
+06/06/2022 15:36,Chesterfield,Pattie Terry,"Large Flat white - 2.45, Large Flat white - 2.45, Large Flavoured iced latte - Caramel - 3.25",8.15,CASH,
+06/06/2022 15:38,Chesterfield,Brenton Mcburney,"Large Flavoured iced latte - Caramel - 3.25, Regular Latte - 2.15, Large Flat white - 2.45, Regular Flat white - 2.15, Large Flavoured iced latte - Vanilla - 3.25, Regular Latte - 2.15",15.4,CARD,1.86898E+15
+06/06/2022 15:41,Chesterfield,Ronda Kelly,"Large Flat white - 2.45, Regular Flat white - 2.15, Regular Flavoured latte - Hazelnut - 2.55, Large Flat white - 2.45, Large Flat white - 2.45",12.05,CARD,7.16208E+15
+06/06/2022 15:43,Chesterfield,Allen Ramirez,Regular Flavoured iced latte - Caramel - 2.75,2.75,CARD,7.23294E+15
+06/06/2022 15:45,Chesterfield,Ann Wright,"Large Flavoured latte - Hazelnut - 2.85, Regular Flavoured latte - Hazelnut - 2.55, Regular Flavoured latte - Hazelnut - 2.55",7.95,CARD,5.5885E+15
+06/06/2022 15:47,Chesterfield,Lane Williams,"Regular Flavoured iced latte - Caramel - 2.75, Regular Latte - 2.15, Regular Flavoured iced latte - Hazelnut - 2.75",7.65,CARD,1.6802E+15
+06/06/2022 15:49,Chesterfield,Concetta Recalde,"Regular Flavoured latte - Hazelnut - 2.55, Large Flat white - 2.45, Large Flavoured iced latte - Hazelnut - 3.25",8.25,CARD,6.96615E+15
+06/06/2022 15:51,Chesterfield,Paul Wenrich,"Regular Flavoured iced latte - Caramel - 2.75, Regular Flavoured iced latte - Hazelnut - 2.75, Large Flavoured iced latte - Hazelnut - 3.25, Large Flat white - 2.45",11.2,CASH,
+06/06/2022 15:53,Chesterfield,Joan Hendricks,"Regular Latte - 2.15, Regular Flavoured iced latte - Hazelnut - 2.75, Large Latte - 2.45, Regular Flavoured iced latte - Hazelnut - 2.75, Large Flavoured latte - Hazelnut - 2.85, Regular Flavoured latte - Hazelnut - 2.55",15.5,CARD,7.24894E+15
+06/06/2022 15:56,Chesterfield,Julie Crawford,"Large Flavoured latte - Hazelnut - 2.85, Large Flavoured iced latte - Vanilla - 3.25, Large Flavoured iced latte - Vanilla - 3.25",9.35,CARD,1.40959E+15
+06/06/2022 15:58,Chesterfield,Margaret Daliva,Regular Flavoured iced latte - Vanilla - 2.75,2.75,CASH,
+06/06/2022 16:00,Chesterfield,Raymond Briney,"Regular Latte - 2.15, Regular Flavoured latte - Hazelnut - 2.55, Regular Flat white - 2.15, Large Latte - 2.45",9.3,CASH,
+06/06/2022 16:02,Chesterfield,Shirley Winfree,"Large Flavoured iced latte - Caramel - 3.25, Regular Flat white - 2.15, Large Flat white - 2.45",7.85,CARD,9.66134E+15
+06/06/2022 16:04,Chesterfield,Jennifer Albarado,"Large Flavoured iced latte - Vanilla - 3.25, Large Flavoured iced latte - Hazelnut - 3.25, Large Flavoured iced latte - Hazelnut - 3.25",9.75,CASH,
+06/06/2022 16:06,Chesterfield,Michael Pruitt,Large Latte - 2.45,2.45,CARD,5.8145E+15
+06/06/2022 16:08,Chesterfield,Thelma Waldrep,Large Flavoured latte - Hazelnut - 2.85,2.85,CASH,
+06/06/2022 16:10,Chesterfield,Charles Devoy,Large Flavoured iced latte - Caramel - 3.25,3.25,CARD,3.03448E+15
+06/06/2022 16:13,Chesterfield,Jason Reyes,"Regular Flavoured iced latte - Hazelnut - 2.75, Regular Flat white - 2.15, Large Flavoured latte - Hazelnut - 2.85, Regular Flat white - 2.15",9.9,CARD,2.51012E+15
+06/06/2022 16:15,Chesterfield,Sarah Overall,Regular Flavoured iced latte - Vanilla - 2.75,2.75,CASH,
+06/06/2022 16:17,Chesterfield,Nathan Selby,"Large Flavoured latte - Hazelnut - 2.85, Regular Latte - 2.15, Large Flavoured iced latte - Caramel - 3.25",8.25,CARD,5.55179E+15
+06/06/2022 16:19,Chesterfield,Arnold Allen,"Regular Flat white - 2.15, Large Flat white - 2.45",4.6,CARD,6.29916E+15
+06/06/2022 16:21,Chesterfield,Billy Yost,"Large Flavoured latte - Hazelnut - 2.85, Regular Flavoured iced latte - Caramel - 2.75, Regular Latte - 2.15, Large Flat white - 2.45",10.2,CASH,
+06/06/2022 16:23,Chesterfield,Moises Ascolese,"Large Flavoured iced latte - Caramel - 3.25, Regular Flavoured iced latte - Vanilla - 2.75, Large Flavoured iced latte - Hazelnut - 3.25, Regular Flavoured iced latte - Hazelnut - 2.75",12,CARD,2.80113E+15
+06/06/2022 16:25,Chesterfield,Inell Piper,"Regular Flavoured latte - Hazelnut - 2.55, Large Flavoured iced latte - Hazelnut - 3.25",5.8,CARD,3.07439E+15
+06/06/2022 16:28,Chesterfield,Stephen James,"Regular Flavoured iced latte - Hazelnut - 2.75, Regular Flat white - 2.15, Large Flavoured latte - Hazelnut - 2.85, Large Flavoured latte - Hazelnut - 2.85",10.6,CASH,
+06/06/2022 16:30,Chesterfield,Ouida Wietzel,"Large Flavoured iced latte - Hazelnut - 3.25, Regular Flavoured latte - Hazelnut - 2.55, Regular Flavoured iced latte - Caramel - 2.75, Regular Flavoured iced latte - Caramel - 2.75",11.3,CARD,6.50094E+15
+06/06/2022 16:32,Chesterfield,David Roth,"Large Flavoured iced latte - Hazelnut - 3.25, Large Flat white - 2.45, Large Latte - 2.45, Large Flat white - 2.45",10.6,CARD,1.4673E+15
+06/06/2022 16:34,Chesterfield,Mercedes Phillips,"Regular Flavoured iced latte - Hazelnut - 2.75, Regular Flavoured latte - Hazelnut - 2.55, Large Flavoured iced latte - Caramel - 3.25, Regular Flavoured latte - Hazelnut - 2.55, Large Flavoured iced latte - Hazelnut - 3.25, Regular Latte - 2.15",16.5,CARD,1.35577E+15
+06/06/2022 16:36,Chesterfield,Donna Kluesner,"Large Flavoured iced latte - Hazelnut - 3.25, Regular Latte - 2.15, Large Flavoured iced latte - Vanilla - 3.25",8.65,CASH,
+06/06/2022 16:38,Chesterfield,Kenny Joyner,"Regular Flavoured iced latte - Hazelnut - 2.75, Regular Flavoured iced latte - Hazelnut - 2.75, Regular Flavoured iced latte - Hazelnut - 2.75",8.25,CARD,5.52563E+15
+06/06/2022 16:40,Chesterfield,John Neary,"Regular Flavoured iced latte - Caramel - 2.75, Regular Flavoured iced latte - Hazelnut - 2.75, Regular Latte - 2.15, Large Flavoured iced latte - Hazelnut - 3.25",10.9,CARD,5.02931E+15
+06/06/2022 16:42,Chesterfield,Mary Fields,"Regular Flavoured latte - Hazelnut - 2.55, Regular Latte - 2.15, Large Flavoured iced latte - Caramel - 3.25, Large Flavoured iced latte - Caramel - 3.25, Large Flavoured iced latte - Hazelnut - 3.25, Regular Flavoured iced latte - Caramel - 2.75",17.2,CARD,8.94835E+15
+06/06/2022 16:45,Chesterfield,Walter Pilkinton,"Regular Flavoured iced latte - Caramel - 2.75, Regular Flavoured latte - Hazelnut - 2.55, Large Flat white - 2.45",7.75,CARD,5.03802E+15
+06/06/2022 16:47,Chesterfield,Dana Gravette,Regular Flavoured iced latte - Hazelnut - 2.75,2.75,CASH,
+06/06/2022 16:49,Chesterfield,Janice Kyle,Large Flavoured latte - Hazelnut - 2.85,2.85,CARD,6.78741E+15
+06/06/2022 16:51,Chesterfield,Jack Livengood,"Regular Flavoured iced latte - Caramel - 2.75, Regular Flat white - 2.15",4.9,CASH,
+06/06/2022 16:53,Chesterfield,Daniela Baptiste,"Large Flat white - 2.45, Large Flat white - 2.45, Large Latte - 2.45, Regular Flavoured iced latte - Vanilla - 2.75, Regular Flavoured latte - Hazelnut - 2.55",12.65,CASH,
+06/06/2022 16:55,Chesterfield,Christopher Duquette,"Large Flavoured iced latte - Hazelnut - 3.25, Regular Flat white - 2.15, Regular Latte - 2.15, Regular Flavoured iced latte - Hazelnut - 2.75",10.3,CARD,9.59673E+15
+06/06/2022 16:57,Chesterfield,Geraldine Sykes,"Regular Flavoured iced latte - Hazelnut - 2.75, Large Latte - 2.45, Regular Flat white - 2.15, Regular Flavoured iced latte - Vanilla - 2.75",10.1,CARD,5.92548E+15
+06/06/2022 16:57,Chesterfield,Geraldine Sykes,"Regular Flavoured Chai latte - Vanilla - 2.75, Large Latte - 2.45, Regular Flat white - 2.15, Regular Flavoured iced latte - Vanilla - 2.75",10.1,CARD,5.92548E+15
+26/06/2022 16:57,Chesterfield,Geraldine Smith,"Regular Flavoured Chai latte - Vanilla - 2.75, Large Latte - 2.45, Regular Flat white - 2.15, Regular Flavoured iced latte - Vanilla - 2.75",10.1,CARD,5.92548E+15
